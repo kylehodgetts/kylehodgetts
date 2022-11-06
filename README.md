@@ -16,7 +16,7 @@ I love writing code. I've been coding for nearly 10 years and and I have the sam
 
 👯 I’m looking to collaborate on anything Python or Go or AWS or Kubernetes. I'm trying to spend more time contributing to open source because I love the community and what is stands for.
 
-📫 How to reach me: kyle.hodgetts@icloud.com
+📫 How to reach me: kylehodgetts@gmail.com
 
 ⚡ Fun fact: I actually wear trousers when working from home. Apparently I'm in the minority
 
