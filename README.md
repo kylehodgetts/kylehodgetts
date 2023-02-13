@@ -8,11 +8,7 @@ Welcome to my little space on Github! Thanks for stopping by
 
 ### Software & Cloud Engineer & Language Lover
 
-I love writing code. I've been coding for nearly 10 years and and I have the same drive for it now that I did when I started out learning.
-
-🔭 I’m currently working for Opinov8 as a Cloud Engineer building and supporting large scale cloud infrastructures for clients and writing awesome internal tools in Python and Terraform modules.
-
-🌱 I’m currently learning Ukrainian 🇺🇦 but I also speak Polish 🇵🇱
+👨🏻‍💻 I love writing code. I've been coding for nearly 10 years and and I have the same drive for it now that I did when I started out learning.
 
 👯 I’m looking to collaborate on anything Python or Go or AWS or Kubernetes. I'm trying to spend more time contributing to open source because I love the community and what is stands for.
 
