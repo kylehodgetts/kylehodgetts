@@ -1,24 +1,34 @@
-### Hi there, I'm Kyle Hodgetts 👋
----
-Welcome to my little space on Github! Thanks for stopping by
+<div align="center">
+	<h2 align="center"><b>Hi there, I'm Kyle Hodgetts 👋</b></h2>
+	<p>Software & Cloud Engineer & Language Lover</p>
+	<h4>
+		<b>Welcome to my little space on Github! Thanks for stopping by.</b>
+	</h4>
+</div>
 
-[![GitHub](https://img.shields.io/badge/Github-kylehodgetts-black)](https://github.com/kylehodgetts)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-kylehodgetts-blue)](https://www.linkedin.com/in/kylehodgetts/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-kylehodgetts-orange)](https://stackoverflow.com/users/2487677/kylehodgetts)
+<h4 align="center">
+	<a href="https://www.instagram.com/xodgetts/" target="_blank">
+		<img align="center" alt="Kyle's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+	</a>
+	<a href="https://twitter.com/xodgetts" target="_blank">
+		<img align="center" alt="Kyle Hodgetts | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+	</a>
+	<a href="https://www.linkedin.com/in/kylehodgetts/" target="_blank">
+		<img align="center" alt="Kyle's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+	</a>
+</h4>
+<br/>
 
-### Software & Cloud Engineer & Language Lover
+
 
 👨🏻‍💻 I love writing code. I've been coding for nearly 10 years and and I have the same drive for it now that I did when I started out learning.
 
 👯 I’m looking to collaborate on anything Python or Go or AWS or Kubernetes. I'm trying to spend more time contributing to open source because I love the community and what is stands for.
 
-📫 How to reach me: kylehodgetts@gmail.com
+🌱 I’m always learning to be a more proficient engineer using a range of tech.
+
+📫 How to reach me: `kylehodgetts@gmail.com`
 
 ⚡ Fun fact: I actually wear trousers when working from home. Apparently I'm in the minority
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylehodgetts&show_icons=true&theme=radical)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylehodgetts&show_icons=tryue&layout=compact&theme=radical&hide_border=true)]()
 
