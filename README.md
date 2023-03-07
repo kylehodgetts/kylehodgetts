@@ -7,13 +7,13 @@
 </div>
 
 <h4 align="center">
-	<a href="https://www.instagram.com/xodgetts/">
+	<a href="https://www.instagram.com/xodgetts/" target="_blank">
 		<img align="center" alt="Kyle's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 	</a>
-	<a href="https://twitter.com/xodgetts">
+	<a href="https://twitter.com/xodgetts" target="_blank">
 		<img align="center" alt="Kyle Hodgetts | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	</a>
-	<a href="https://www.linkedin.com/in/kylehodgetts/">
+	<a href="https://www.linkedin.com/in/kylehodgetts/" target="_blank">
 		<img align="center" alt="Kyle's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 	</a>
 </h4>
