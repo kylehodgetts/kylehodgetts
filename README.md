@@ -25,7 +25,7 @@
 
 👯 I’m looking to collaborate on anything Python or Go or AWS or Kubernetes. I'm trying to spend more time contributing to open source because I love the community and what is stands for.
 
-🌱 I’m alwayys learning to be a more proficient engineer using a range of tech.
+🌱 I’m always learning to be a more proficient engineer using a range of tech.
 
 📫 How to reach me: `kylehodgetts@gmail.com`
 
