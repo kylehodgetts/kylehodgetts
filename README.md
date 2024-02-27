@@ -1,6 +1,6 @@
 <div align="center">
 	<h2 align="center"><b>Hi there, I'm Kyle Hodgetts 👋</b></h2>
-	<p>Software & Cloud Engineer & Language Lover</p>
+	<p>Site Reliability & Cloud Engineer</p>
 	<h4>
 		<b>Welcome to my little space on Github! Thanks for stopping by.</b>
 	</h4>
