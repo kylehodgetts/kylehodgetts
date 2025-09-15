@@ -24,8 +24,6 @@
 
 🌱 I’m always learning to be a more proficient engineer using a range of tech.
 
-📫 How to reach me: `kylehodgetts@gmail.com`
-
 ⚡ Fun fact: I actually wear trousers when working from home. Apparently I'm in the minority.
 
 <img align="left" alt="Ukrainian flag" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" /> Слава Україні! <a href="https://u24.gov.ua/" target="_blank">Please support Ukraine</a>
